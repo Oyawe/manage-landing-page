@@ -9,4 +9,6 @@
 I implemented this using HTML and styled with Tailwind CSS.<br>This is one of my starting Tailwind projects and it has helped me to understand how to create landing pages with Tailiwind.
 
 ### Setup:
-- run ```npm install && npm start```
+- you have to have a VScode extension installed 'Live Server'
+- run ```npm install && npm watch``` to start the development server
+- Open Live Server and the project loads up
