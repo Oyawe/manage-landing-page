@@ -8,7 +8,7 @@
 
 ## Description
 
-This was implemented this using HTML and Tailwind CSS.<br>There's a little bit of Javascript just for an hamburger menu on smaller screens.<br>The website is mobile responsive.<br>This is one of my starting Tailwind projects and it has helped me to understand how to create landing pages with Tailiwind.
+This was implemented using HTML and Tailwind CSS.<br>There's a little bit of Javascript just for an hamburger menu on smaller screens.<br>The website is mobile responsive.<br>This is one of my starting Tailwind projects and it has helped me to understand how to create landing pages with Tailiwind.
 
 ### Setup:
 
